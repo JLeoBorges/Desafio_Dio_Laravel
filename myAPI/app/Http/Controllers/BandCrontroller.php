@@ -18,7 +18,7 @@ class BandCrontroller extends Controller
             ['id' => 1, 'name' => AC/DC],
             ['id' => 2, 'name' => Metallica],
             ['id' => 3, 'name' => Gorillaz]
-        ]
+        ];
     }
 
 }
